@@ -1,0 +1,39 @@
+.page-title {
+    font-size: 9vmax;
+}
+.hello {
+    font-size: 7vmax
+
+}
+.my-name-is {
+    font-family: sans-serif;
+    font-size: 3vmax;
+    padding-bottom: 20px;
+}
+.user-name {
+    font-family:cursive;
+    font-size: 3vmax;
+    background-color: white;
+    color: black;  
+    
+}
+body {
+    color: white;
+    text-align: center;
+    font-family:impact;
+    background-color: gray;
+    width: 700px
+   
+
+}
+
+main {
+    background-color: darkblue;
+    height: 250px;
+    width: 400px;
+    border: 10px solid green;
+    border-radius: 30px;
+    padding: 0px;
+    float:right
+}
+
